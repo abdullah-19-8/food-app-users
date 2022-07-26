@@ -1,0 +1,59 @@
+name: foodpanda_users_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^1.19.1
+  firebase_auth: ^3.4.1
+  cloud_firestore: ^3.2.1
+  firebase_storage: ^10.3.1
+  image_picker: ^0.8.5+3
+  geolocator: ^9.0.0
+  geocoding: ^2.0.4
+  shared_preferences: ^2.0.15
+  carousel_slider: ^4.1.1
+  flutter_staggered_grid_view: ^0.4.0
+  number_inc_dec: ^0.8.0
+  fluttertoast: ^8.0.9
+  provider: ^6.0.3
+  url_launcher: ^6.1.5
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+    - slider/
+
+
+  fonts:
+    - family: Acme
+      fonts:
+        - asset: assets/fonts/Acme-Regular.ttf
+    - family: Kiwi
+      fonts:
+        - asset: assets/fonts/KiwiMaru-Medium.ttf
+    - family: Signatra
+      fonts:
+        - asset: assets/fonts/Signatra.ttf
+    - family: Train
+      fonts:
+        - asset: assets/fonts/TrainOne-Regular.ttf
