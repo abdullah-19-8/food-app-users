@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+hello i hope you like this food delivery app that i cloned 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+this applecation is for users who want to order food at restaurants online like talabat, lezzo app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+for this application i used flutter and firebase to conect all apps, database, and authentication i hope you like it.
